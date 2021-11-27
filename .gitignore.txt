@@ -1,5 +1,5 @@
 ### Auth-api ###
-/auth-api/node_modules/
+auth-api/node_modules/
 
 ### Sales-api ###
-/sales-api/node_modules/
+sales-api/node_modules/
